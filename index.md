@@ -246,8 +246,7 @@ between 2019 and 2020, and 2019 and 2021 respectively–we will run a
 one-sample t-test on this country-by-country differenced data.
 
 Happiness (pre-COVID-19)
-
-![Heatmap of Correlations (2020) - Screenshot](https://user-images.githubusercontent.com/98630674/168146613-28d3ceb3-316f-4825-ad86-f020abe5c745.jpg)
+![Histogram of Happiness (Pre-COVID-19) - Screenshot](https://user-images.githubusercontent.com/98630674/168146719-65f5ec25-5ef9-4f75-99b7-ce3052591dda.jpg)
 
 Happiness (during COVID-19)
 
