@@ -246,6 +246,7 @@ between 2019 and 2020, and 2019 and 2021 respectively–we will run a
 one-sample t-test on this country-by-country differenced data.
 
 Happiness (pre-COVID-19)
+
 ![](Histogram%20of%20Happiness%20(Pre-COVID-19).png "Happiness (Pre-COVID-19)")
 
 Happiness (during COVID-19)
