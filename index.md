@@ -51,7 +51,6 @@ measures, policymakers may be better prepared for the next crisis to
 heighten the success of emergency policy.
 
 ## **Data Understanding**
-<img width="654" alt="Screen Shot 2022-05-12 at 1 33 42 PM" src="https://user-images.githubusercontent.com/98770027/168134884-31c62fcf-1846-44da-86fe-56f51567fb04.png">
 
 ### **Our World in Data**
 
