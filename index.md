@@ -251,7 +251,7 @@ Happiness (pre-COVID-19)
 
 Happiness (during COVID-19)
 
-![](/images/Histogram%20of%20Happiness%20(Post-COVID-19)%20-%20Screenshot.jpg)
+![](/gh_images/Histogram%20of%20Happiness%20(Post-COVID-19)%20-%20Screenshot.jpg)
 
 While these graphs seem to indicate that happiness did not significantly
 change between the two periods, we will also perform a t-test on the
@@ -289,7 +289,7 @@ is prudent to consider any other correlations that exist between the
 data features. To visualize this, we will construct a correlation
 matrix.
 
-![](/images/Heatmap%20of%20Correlations%20(Total%20Data)%20-%20Screenshot.jpg)
+![](/gh_images/Heatmap%20of%20Correlations%20(Total%20Data)%20-%20Screenshot.jpg)
 
 The above correlation plot visualizes any relations between the Covid
 data and World Happiness data between 2020-21. This particular graph
@@ -299,11 +299,11 @@ any differences between the specific years.
 
 Correlation plot for 2020:
 
-![](/images/Heatmap%20of%20Correlations%20(2020)%20-%20Screenshot.jpg)
+![](/gh_images/Heatmap%20of%20Correlations%20(2020)%20-%20Screenshot.jpg)
 
 Correlation plot for 2021:
 
-![](/images/Heatmap%20of%20Correlations%20(2021)%20-%20Screenshot.jpg)
+![](/gh_images/Heatmap%20of%20Correlations%20(2021)%20-%20Screenshot.jpg)
 
 The individual years do not present a much different picture than the
 holistic view, unfortunately. While happiness and COVID-19 do not appear
@@ -320,7 +320,7 @@ Using the correlation matrices, we present some of the more interesting
 correlations that presented themselves that may be useful for
 governments to learn from.
 
-![](/images/Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
+![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 While not a linear fit, a nonlinear correlation may exist in this model.
 Either way, the general message is clear–if more citizens perceive their
@@ -331,7 +331,7 @@ governments above-board generally grade higher happiness scores.
 Next, we consider happiness and how an individual perceives their
 individual freedom as a country’s citizen.
 
-![](/images/Scatterplot%20of%20Happiness%20vs.%20Freedom%20-%20Screenshot.jpg)
+![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20Freedom%20-%20Screenshot.jpg)
 
 The strongest correlation yet has been found. While a seemingly obvious
 thing, this quality is integral to making any citizen happy. Far too
@@ -348,9 +348,9 @@ that despite the lack of statiscial evidence between covid and
 happiness–governments protect the health and safety of its citizens from
 a pandemic that ravages its population and slashes its life expectancy.
 
-![](/images/Scatterplot%20of%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
+![](/gh_images/Scatterplot%20of%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
 
-![](/images/Scatterplot%20of%20Life%20Expectancy%20vs.%20Corruption%20-%20Screenshot.jpg)
+![](/gh_images/Scatterplot%20of%20Life%20Expectancy%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 These scatter plots make it clear that life expectancy is negatively
 impacted in a country where government corruption is abound (at least as
@@ -359,7 +359,7 @@ is positively correlated to life expectancy. To drive the relation home,
 we will visualize the relation between life expectancy and the happiness
 score.
 
-![](/images/Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
+![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 We will revisit these relations in a later linear machine learning
 model. In the meantime, we also wish to consider one last possible
@@ -369,7 +369,7 @@ globe. To consider this possible relation, we will utilize the “new
 vaccinations” from only 2021 since vaccines only began to be
 administered in late 2020 for a select few countries.
 
-![](/images/Scatterplot%20of%20Happiness%20vs.%20New%20People%20Vaccinated%20Per%20Capita%20(2021).png)
+![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20New%20People%20Vaccinated%20Per%20Capita%20(2021).png)
 
 ## **Machine Learning Algorithm**
 
@@ -381,7 +381,7 @@ that this algorithm will only be able to use 2021 data contained with
 the “t21” dataframe given that this was the first year vaccinations were
 widely available to the general public.
 
-![](/images/ML%20-%20Happiness%20vs.%20New%20Vaccinations%20-%20Screenshot.jpg)
+![](/gh_images/ML%20-%20Happiness%20vs.%20New%20Vaccinations%20-%20Screenshot.jpg)
 
 The optimal degree of polynomial to include in the model is degree 3,
 which minimzed the model’s cost function. From this model, we can see a
@@ -398,7 +398,7 @@ between an individual’s perceived “freedom of choice”. We investigate
 this relaton up next, but first we must update the dataset to remove a
 single observation who did not report life expectancy.
 
-![](/images/ML%20-%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
+![](/gh_images/ML%20-%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
 
 The resulting model ran optimally, with the lowest cost function, at a
 degree 2 polynomial; however, the cost function is still relatively high
