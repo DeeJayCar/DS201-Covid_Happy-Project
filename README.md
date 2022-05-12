@@ -455,7 +455,18 @@ annualized, global data could provide.
 Our Google Colaboratory file can be accessed
 [here](https://colab.research.google.com/drive/1Me2gdZBcbn0M2oz2uZt-WJ4FPCjxo8UX#scrollTo=WoMZdh6XpPOC).
 
-## Data Sources
+## More Information
+
+### IO Page
+
+-   Our IO page can be accessed here.
+
+### Videos
+
+-   Tutorial
+-   Presentation
+
+### Data Sources
 
 -   [World Happiness Report
     data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)
@@ -463,7 +474,7 @@ Our Google Colaboratory file can be accessed
 -   [Our World in Data
     data](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
 
-## Acknowledgements
+### Acknowledgements
 
 -   [World Happiness
     Report](https://worldhappiness.report/ed/2021/social-connection-and-well-being-during-covid-19/)
