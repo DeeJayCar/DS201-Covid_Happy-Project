@@ -247,7 +247,7 @@ one-sample t-test on this country-by-country differenced data.
 
 Happiness (pre-COVID-19)
 
-![](/images/Histogram%20of%20Happiness%20(Pre-COVID-19)%20-%20Screenshot.jpg)
+![](/gh_images/Histogram%20of%20Happiness%20(Pre-COVID-19)%20-%20Screenshot.jpg)
 
 Happiness (during COVID-19)
 
