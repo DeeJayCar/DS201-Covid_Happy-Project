@@ -35,7 +35,7 @@ wave of cases in Winter ’21-’22; however a few countries have gone as
 far to reimplement strict lockdown protocols. Dissatisfaction and social
 rebellion against these measures have only grown more prolific since the
 pandemic’s beginning–enlarging from a vocal minority to a steadfast
-majority. Once we understand if the policy was “worth it”, we will turn
+majority. Once we understand how (and if) the policy impacted happiness, we will turn
 our attention to focus on social attitudes that diluted the
 effectiveness of measures taken across the globe. 
 
@@ -44,7 +44,7 @@ COVID-19,** may provide extremely valuable insights for policymakers as
 they work to craft more efficient policy for future pandemics. We seek
 to examine different attitudes gauged in the World Happiness Data beyond
 simple happiness (such as perception of freedom, corruption, government
-trust) and see if these factors relate to vaccine and mortality rates
+trust) and see if these factors relate to vaccine rates and happiness levels
 witnessed throughout the pandemic. If we can begin to glimpse into the
 fundamental attitudes that impacted the effectiveness of stringent
 measures, policymakers may be better prepared for the next crisis to
