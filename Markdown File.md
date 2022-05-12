@@ -302,12 +302,12 @@ Correlation plot for 2021:
 ![](Heatmap%20of%20Correlations%20(2021).png)
 
 The individual years do not present a much different picture than the
-holisitc view, unfortunately. While happiness and covid do not appear to
-have a meangingful connection on a global scale in this dataset, we
+holistic view, unfortunately. While happiness and COVID-19 do not appear
+to have a meaningful connection on a global scale in this dataset, we
 still seek to provide insights for government officials that can be
 useful in improving the well-being of their citizens. To this end, we
 continue by exploring the qualities that impact happiness within the
-World Happiness Report datset. By seeing what makes a country happier,
+World Happiness Report dataset. By seeing what makes a country happier,
 other countries may be able to mirror these general guidelines in order
 to collectively increase happiness and make the “insignificant”
 difference “significant” even in trying times.
@@ -450,3 +450,16 @@ annualized, global data could provide.
 
 Our Google Colaboratory file can be accessed
 [here](https://colab.research.google.com/drive/1Me2gdZBcbn0M2oz2uZt-WJ4FPCjxo8UX#scrollTo=WoMZdh6XpPOC).
+
+## Data Sources
+
+-   [World Happiness Report
+    data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)
+
+-   [Our World in Data
+    data](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)
+
+## Acknowledgements
+
+-   [World Happiness
+    Report](https://worldhappiness.report/ed/2021/social-connection-and-well-being-during-covid-19/)
