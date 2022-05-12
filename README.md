@@ -251,7 +251,7 @@ Happiness (pre-COVID-19)
 
 Happiness (during COVID-19)
 
-![](Histogram%20of%20Happiness%20(Post-COVID-19).png)
+![](images/Histogram of Happiness (Pre-COVID-19).png)
 
 While these graphs seem to indicate that happiness did not significantly
 change between the two periods, we will also perform a t-test on the
