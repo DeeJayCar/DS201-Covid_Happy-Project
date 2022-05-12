@@ -461,7 +461,7 @@ Our Google Colaboratory file can be accessed
 
 ### IO Page
 
--   Our IO page can be accessed here.
+-   Our IO page can be accessed [here](https://deejaycar.github.io/DS201-Covid_Happy-Project/).
 
 ### Videos
 
