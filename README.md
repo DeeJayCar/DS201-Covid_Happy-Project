@@ -413,7 +413,7 @@ play out in the coming years as more data becomes publicly available.
 
 ## **Conclusion and Future Studies**
 
-s we conclude our cursory, exploratory analysis of the COVID-19 dataset
+As we conclude our cursory, exploratory analysis of the COVID-19 dataset
 and World Happiness Report dataset, we determined that happiness did not
 significantly shift globally between 2019 and 2020-21, contradicting the
 generally accepted principle that global happiness plunged throughout
