@@ -1,5 +1,5 @@
-# **Covid-19 and Global Happiness: A Brief Investigation
-** By: Eric Ragan, Daniel Carzis, Paul Zdankiewicz, Remy Oktay, Daniel Weston
+# **Covid-19 and Global Happiness: A Brief Investigation**
+**By: Eric Ragan, Daniel Carzis, Paul Zdankiewicz, Remy Oktay, Daniel Weston**
 
 ## **Problem Understanding: Was it worth it?**
 
