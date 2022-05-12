@@ -370,6 +370,7 @@ vaccinations” from only 2021 since vaccines only began to be
 administered in late 2020 for a select few countries.
 
 ![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20New%20People%20Vaccinated%20(2021)$20-$20Screenshot.jpg)
+![](gh_images/Scatterplot%20of%20Happiness%20vs.%20New%20People%20Vaccinated%20(2021)%20-%20Screenshot.jpg)
 Scatterplot of Happiness vs. New People Vaccinated (2021) - Screenshot
 
 
