@@ -371,6 +371,8 @@ administered in late 2020 for a select few countries.
 
 ![](/gh_images/Scatterplot%20of%20Happiness%20vs.%20New%20People%20Vaccinated%20Per%20Capita%20(2021).png)
 
+From initial 2021 data, we can surmise a positive relation between more vaccines per capita (a normalized version of the "new_people_vaccinated_smoothed_Y") and happiness. This follows our general intution that countries that work to ensure a higher life expectancy (say via national vaccination campaigns), the more happy that society is as familial units coexist for longer periods of time.
+
 ## **Machine Learning Algorithm**
 
 To capitalize on the relation between this newly discovered
