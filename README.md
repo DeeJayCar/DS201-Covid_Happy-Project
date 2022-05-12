@@ -289,7 +289,7 @@ is prudent to consider any other correlations that exist between the
 data features. To visualize this, we will construct a correlation
 matrix.
 
-![](/images/Heatmap%20of%20Correlations%20(Total%20Data) - Screenshot.jpg)
+![](/images/Heatmap%20of%20Correlations%20(Total%20Data)%20-%20Screenshot.jpg)
 
 The above correlation plot visualizes any relations between the Covid
 data and World Happiness data between 2020-21. This particular graph
@@ -320,7 +320,7 @@ Using the correlation matrices, we present some of the more interesting
 correlations that presented themselves that may be useful for
 governments to learn from.
 
-![](Scatterplot%20of%20Happiness%20vs.%20Corruption.png)
+![](Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 While not a linear fit, a nonlinear correlation may exist in this model.
 Either way, the general message is clear–if more citizens perceive their
@@ -331,7 +331,7 @@ governments above-board generally grade higher happiness scores.
 Next, we consider happiness and how an individual perceives their
 individual freedom as a country’s citizen.
 
-![](Scatterplot%20of%20Happiness%20vs.%20Freedom.png)
+![](Scatterplot%20of%20Happiness%20vs.%20Freedom%20-%20Screenshot.jpg)
 
 The strongest correlation yet has been found. While a seemingly obvious
 thing, this quality is integral to making any citizen happy. Far too
@@ -348,9 +348,9 @@ that despite the lack of statiscial evidence between covid and
 happiness–governments protect the health and safety of its citizens from
 a pandemic that ravages its population and slashes its life expectancy.
 
-![](Scatterplot%20of%20Life%20Expectancy%20vs.%20Freedom.png)
+![](Scatterplot%20of%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
 
-![](Scatterplot%20of%20Life%20Expectancy%20vs.%20Corruption.png)
+![](Scatterplot%20of%20Life%20Expectancy%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 These scatter plots make it clear that life expectancy is negatively
 impacted in a country where government corruption is abound (at least as
@@ -359,7 +359,7 @@ is positively correlated to life expectancy. To drive the relation home,
 we will visualize the relation between life expectancy and the happiness
 score.
 
-![](Scatterplot%20of%20Happiness%20vs.%20Corruption.png)
+![](Scatterplot%20of%20Happiness%20vs.%20Corruption%20-%20Screenshot.jpg)
 
 We will revisit these relations in a later linear machine learning
 model. In the meantime, we also wish to consider one last possible
