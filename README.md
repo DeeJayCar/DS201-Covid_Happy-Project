@@ -289,7 +289,7 @@ is prudent to consider any other correlations that exist between the
 data features. To visualize this, we will construct a correlation
 matrix.
 
-![](Heatmap%20of%20Correlations%20(Total%20Data).png)
+![](/images/Heatmap%20of%20Correlations%20(Total%20Data) - Screenshot.jpg)
 
 The above correlation plot visualizes any relations between the Covid
 data and World Happiness data between 2020-21. This particular graph
@@ -299,11 +299,11 @@ any differences between the specific years.
 
 Correlation plot for 2020:
 
-![](Heatmap%20of%20Correlations%20(2020).png)
+![](/images/Heatmap%20of%20Correlations%20(2020)%20-%20Screenshot.jpg)
 
 Correlation plot for 2021:
 
-![](Heatmap%20of%20Correlations%20(2021).png)
+![](/images/Heatmap%20of%20Correlations%20(2021)%20-%20Screenshot.jpg)
 
 The individual years do not present a much different picture than the
 holistic view, unfortunately. While happiness and COVID-19 do not appear
