@@ -381,7 +381,7 @@ that this algorithm will only be able to use 2021 data contained with
 the “t21” dataframe given that this was the first year vaccinations were
 widely available to the general public.
 
-![](/images/ML%20-%20Happiness%20vs.%20New%20Vaccinations.png)
+![](/images/ML%20-%20Happiness%20vs.%20New%20Vaccinations%20-%20Screenshot.jpg)
 
 The optimal degree of polynomial to include in the model is degree 3,
 which minimzed the model’s cost function. From this model, we can see a
@@ -398,7 +398,7 @@ between an individual’s perceived “freedom of choice”. We investigate
 this relaton up next, but first we must update the dataset to remove a
 single observation who did not report life expectancy.
 
-![](/images/ML%20-%20Life%20Expectancy%20vs.%20Freedom.png)
+![](/images/ML%20-%20Life%20Expectancy%20vs.%20Freedom%20-%20Screenshot.jpg)
 
 The resulting model ran optimally, with the lowest cost function, at a
 degree 2 polynomial; however, the cost function is still relatively high
