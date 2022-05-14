@@ -465,7 +465,7 @@ Our Google Colaboratory file can be accessed
 
 ### Videos
 
--   Tutorial
+-   [Tutorial](https://www.youtube.com/watch?v=m8rA4PvtI04)
 -   [Presentation](https://www.youtube.com/watch?v=dzxq3S4IYRc)
 
 ### Data Sources
